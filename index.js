@@ -1,2 +1,2 @@
 console.log("Branch 1");
-console.log("Branch 2 test");
+console.log("not commiting");
