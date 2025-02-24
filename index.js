@@ -4,7 +4,6 @@ console.log("test 1");
 console.log("test 2");
 console.log("test 2.2");
 console.log("test 3");
-console.log("commit 1");
 console.log("commit 2");
 console.log("commit 3");
 console.log("commit 4");
